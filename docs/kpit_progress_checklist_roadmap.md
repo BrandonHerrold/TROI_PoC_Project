@@ -1,7 +1,7 @@
-# K-PIT — Progress Checklist & Roadmap
+# G-PIT — Progress Checklist & Roadmap
 
-> **Project:** K-PIT (Kroger Parts Inventory for Technicians)
-> 
+> **Project:** G-PIT (Generic Parts Inventory for Technicians)
+>
 > **Purpose:** Time-bound, non-prod Proof of Concept demonstrating a safe, auditable parts inventory system for technicians.
 > 
 > **Status:** Core foundations complete; ready for feature expansion and GitHub publication.
