@@ -149,14 +149,9 @@ Planned next steps:
 * REST API layer
 * Dockerized PoC deployment
 
-<<<<<<< HEAD
 See the full checklist here:
 
-* [`docs/troi-Progress-Checklist.md`](docs/troi-Progress-Checklist.md)
-
-=======
->>>>>>> b4237f18415b629b6b78157172a2f08d2962edee
----
+* [`docs/troi_progress_checklist_roadmap.md`](docs/troi_progress_checklist_roadmap.md)
 
 ## 📄 License
 
