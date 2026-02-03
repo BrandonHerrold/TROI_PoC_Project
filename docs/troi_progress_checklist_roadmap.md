@@ -11,7 +11,7 @@
 ## ✅ Completed (Foundational Milestones)
 
 ### Repository & Environment
-- [x] Created project workspace (`kpit-poc`)
+- [x] Created project workspace (`troi-poc`)
 - [x] Initialized Git repository
 - [x] Added `.gitignore` (excluded `.venv/`, `.vs/`, `db.sqlite3`, logs)
 - [x] Created and activated Python virtual environment
@@ -19,7 +19,7 @@
 - [x] Established rule: run all Django commands from `app/`
 
 ### Django Project Setup
-- [x] Created Django project (`kpit`)
+- [x] Created Django project (`troi`)
 - [x] Verified local server startup (`runserver --noreload`)
 - [x] Created admin superuser
 - [x] Verified access to Django Admin UI
@@ -147,7 +147,7 @@
 
 ## 🏁 Current State Summary
 
-> K-PIT now has a **working inventory core**:
+> TROI now has a **working inventory core**:
 > - Parts catalog
 > - Locations
 > - Auditable inventory ledger
@@ -158,8 +158,8 @@ This is a **credible, demo-ready Proof of Concept** suitable for GitHub and inte
 ---
 
 ## 🔖 Suggested Git Tags
-- `kpit-mvp-01` — Parts + Stock Ledger Foundation
-- `kpit-mvp-02` — On-Hand Inventory + Requests (planned)
+- `troi-mvp-01` — Parts + Stock Ledger Foundation
+- `troi-mvp-02` — On-Hand Inventory + Requests (planned)
 
 ---
 

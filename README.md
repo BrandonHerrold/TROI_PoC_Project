@@ -68,7 +68,7 @@ Django Project
 │
 ├── parts/        # Parts catalog (what exists)
 ├── stock/        # Locations + inventory ledger (what happened)
-├── kpit/         # Project configuration
+├── troi/         # Project configuration
 └── docs/         # Architecture notes and roadmap
 ```
 
@@ -150,7 +150,7 @@ Planned next steps:
 
 See the full checklist here:
 
-* [`docs/KPIT-Progress-Checklist.md`](docs/KPIT-Progress-Checklist.md)
+* [`docs/troi-Progress-Checklist.md`](docs/troi-Progress-Checklist.md)
 
 ---
 
