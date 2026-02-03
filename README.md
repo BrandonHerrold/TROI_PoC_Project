@@ -1,4 +1,5 @@
-# Technician Inventory Ledger (PoC)
+# TROI
+# Technician Resources and Operational Index (PoC)
 
 A Django-based **proof of concept** for managing technician parts inventory using an **audit-first, ledger-driven design**.
 
@@ -148,10 +149,13 @@ Planned next steps:
 * REST API layer
 * Dockerized PoC deployment
 
+<<<<<<< HEAD
 See the full checklist here:
 
 * [`docs/troi-Progress-Checklist.md`](docs/troi-Progress-Checklist.md)
 
+=======
+>>>>>>> b4237f18415b629b6b78157172a2f08d2962edee
 ---
 
 ## 📄 License
@@ -168,5 +172,13 @@ This project was built as a **learning-forward, portfolio-quality PoC** focused 
 * auditability
 * maintainability
 * enterprise readiness
+
+## License
+
+This project is proprietary and confidential.
+
+All rights are reserved by the author.  
+No part of this repository may be copied, reproduced, modified,
+or redistributed without explicit written permission.
 
 Feedback and discussion are welcome.
